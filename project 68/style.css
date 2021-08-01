@@ -1,0 +1,13 @@
+header {
+    background-color: gray;
+}
+h1 {
+    font-size: 50;
+}
+.img {
+    width: 300px;
+    height: 250px;
+}
+.places {
+    border-style: solid;
+}
